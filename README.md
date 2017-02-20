@@ -6,3 +6,6 @@ Binary Search
 
 ### 19-02-2017
 Selection Sort
+
+### 20-02-2017
+Insertion Sort
