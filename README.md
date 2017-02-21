@@ -13,4 +13,4 @@ Selection Sort
 Insertion Sort
 
 ### 21-02-2017
-Recursive Algorithms (Iterative factorial, Recursive factorial, Palindrome, Recursive powers, Sierpinski gasket)
+Recursive Algorithms (Iterative factorial (for time complexity comparison), Recursive factorial, Palindrome, Recursive powers, Sierpinski gasket)
