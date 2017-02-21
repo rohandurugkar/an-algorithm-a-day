@@ -1,6 +1,9 @@
+var factorial = function(n) {
+  if(n === 0){
+    return 1;
+  }
+  return n * factorial(n-1);
+};
 
-
-var array = [8, 22, 3, 9, 7, 0, -87];
-selectionSort(array);
-
-alert("The sorted array is " + array);
+var n = 10;
+alert(n + "!= " + factorial(n));
