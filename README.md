@@ -22,4 +22,4 @@ Recursive Algorithms (Recursive powers)
 Recursive Algorithms (Towers of Hanoi) (cannot run yet)
 
 ### 24-02-2017
-Merge Sort
+Divide and Conquer - Merge Sort
