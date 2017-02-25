@@ -23,3 +23,10 @@ Recursive Algorithms (Towers of Hanoi) (cannot run yet)
 
 ### 24-02-2017
 Divide and Conquer - Merge Sort
+Watch the algorithm here in 'German folk time complexity'. :)
+https://www.youtube.com/watch?v=XaqR3G_NVoo
+
+### 25-02-2017
+Divide & Conquer - Quick Sort
+Watch the algorithm here in 'Hungarian time complexity'. :)
+https://www.youtube.com/watch?v=ywWBy6J5gz8
