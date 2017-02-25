@@ -24,7 +24,7 @@ var quickSort = function(array, p, r) {
     }
 }
 
-var array = [2, 42, 33, 9, 8, 0, -12];
+var array = [2, 42, 33, 9, 8, 0, -12, 3];
 quickSort(array, 0, array.length - 1);
 
 alert("The sorted array is [" + array + "].");
