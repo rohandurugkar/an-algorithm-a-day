@@ -13,20 +13,25 @@ Selection Sort
 Insertion Sort
 
 ### 21-02-2017
-Recursive Algorithms (Iterative factorial (for time complexity comparison), Recursive factorial, Palindrome)
+Recursive Algorithms *(Iterative factorial; for time complexity comparison, Recursive factorial, Palindrome)*
 
 ### 22-02-2017
-Recursive Algorithms (Recursive powers)
+Recursive Algorithms *(Recursive powers)*
 
 ### 23-02-2017
-Recursive Algorithms (Towers of Hanoi) (cannot run yet)
+Recursive Algorithms *(Towers of Hanoi, does not run yet)*
 
 ### 24-02-2017
 Divide and Conquer - Merge Sort
-#### Watch the algorithm here in 'German folk time complexity'. :)
-https://www.youtube.com/watch?v=XaqR3G_NVoo
+[*Watch the algorithm here in 'German folk time complexity'*](https://www.youtube.com/watch?v=XaqR3G_NVoo)
 
 ### 25-02-2017
 Divide & Conquer - Quick Sort
-#### Watch the algorithm here in 'Hungarian time complexity'. :)
-https://www.youtube.com/watch?v=ywWBy6J5gz8
+[*Watch the algorithm here in 'Hungarian time complexity'.*](https://www.youtube.com/watch?v=ywWBy6J5gz8)
+
+
+### 26-02-2017
+Breadth-First Search - Exploring three kinds of graph representations
+
+### 27-02-2017
+Breadth-First Search Algorithm
