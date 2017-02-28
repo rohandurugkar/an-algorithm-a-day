@@ -23,7 +23,7 @@ Recursive Algorithms *(Towers of Hanoi, does not run yet)*
 
 ### 24-02-2017
 Divide and Conquer - Merge Sort
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=XaqR3G_NVoo" target="\_blank"><img src="http://img.youtube.com/vi/XaqR3G_NVoo/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=XaqR3G_NVoo" target="_blank"><img src="http://img.youtube.com/vi/XaqR3G_NVoo/0.jpg" 
 alt="" width="240" height="180" border="10" /></a>
 
 ### 25-02-2017
