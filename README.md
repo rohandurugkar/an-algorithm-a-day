@@ -23,15 +23,21 @@ Recursive Algorithms *(Towers of Hanoi, does not run yet)*
 
 ### 24-02-2017
 Divide and Conquer - Merge Sort
-[*Watch the algorithm here in 'German folk time complexity'*](https://www.youtube.com/watch?v=XaqR3G_NVoo)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=XaqR3G_NVoo" target="\_blank"><img src="http://img.youtube.com/vi/XaqR3G_NVoo/0.jpg" 
+alt="" width="240" height="180" border="10" /></a>
 
 ### 25-02-2017
 Divide & Conquer - Quick Sort
 [*Watch the algorithm here in 'Hungarian time complexity'.*](https://www.youtube.com/watch?v=ywWBy6J5gz8)
-
 
 ### 26-02-2017
 Breadth-First Search - Exploring three kinds of graph representations
 
 ### 27-02-2017
 Breadth-First Search Algorithm
+
+### 28-02-2017
+Selection Sort Visualizer (Project from Khan Academy)
+
+### 01-03-2017
+Recursive Art (Project from Khan Academy)
