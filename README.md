@@ -1,7 +1,7 @@
 # an-algorithm-a-day
 Practicing implementation of algorithms in JavaScript, at least one algorithm, everyday. Each algorithm (unless specified) has its own folder with an index.html file and a <algorithmName>.js file. Inputs to the algorithms are currently hard-coded in the .js files and the outputs are shown in the infamous JavaScript alert box (wherever possible).
 
-I'm following Khan Academy's 'Algorithms' course and MIT's 'Introduction to Algorithms' lecture available on YouTube.
+I'm following Khan Academy's 'Algorithms' course and MIT's 'Introduction to Algorithms' lecture available on YouTube. Some algorithms are from freeCodeCamp's Front End Development Certification.
 
 ### 18-02-2017
 Binary Search
@@ -38,7 +38,6 @@ Breadth-First Search - Exploring three kinds of graph representations
 Breadth-First Search Algorithm
 
 ### 28-02-2017
-Selection Sort Visualizer (Project from Khan Academy)
+Smallest Common Multiple - Find the smallest common multiple of the provided parameters that can be evenly divided by both, as well as by all sequential numbers in the range between these parameters.
 
 ### 01-03-2017
-Recursive Art (Project from Khan Academy)
