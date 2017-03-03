@@ -47,3 +47,6 @@ Smallest Common Multiple - Find the smallest common multiple of the provided par
 ### 01-03-2017
 Selection sort visualizer
 [*Links to the project running on Khan Academy*](https://www.khanacademy.org/computer-science/selection-sort-visualizer/6537944009080832)
+
+### 02-03-2017
+Sum of odd Fibonacci numbers
