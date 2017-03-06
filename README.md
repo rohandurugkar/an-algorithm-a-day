@@ -1,11 +1,12 @@
 # an-algorithm-a-day
-Practicing implementation of algorithms in JavaScript, at least one algorithm, everyday. Each algorithm (unless specified) has its own folder with an index.html file and a <algorithmName>.js file. Inputs to the algorithms are currently hard-coded in the .js files and the outputs are shown in the infamous JavaScript alert box (wherever possible).
+Practicing implementation of algorithms in JavaScript, at least one algorithm, everyday, for a fortnight. Each algorithm (unless specified) has its own folder with an index.html file and a <algorithmName>.js file. Inputs to the algorithms are currently hard-coded in the .js files and the outputs are shown in the infamous JavaScript alert box (wherever possible).
 
 Sources and references:
 - Algorithms track on Khan Academy
 - MIT's 'Introduction to Algorithms' lecture (YouTube)
 - Certification courses on freeCodeCamp
-- Algorithms track on HackerRank  
+
+### First fortnight starts
 
 ### 18-02-2017
 Binary Search
@@ -60,3 +61,5 @@ Caesar's Cipher
 
 ### 05-03-2017
 Spinal Tap Case
+
+### First fortnight ends
